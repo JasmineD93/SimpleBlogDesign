@@ -1,0 +1,33 @@
+body{
+	font-family: 'Stint Ultra Expanded', cursive;
+	border: 20px solid #bdc3c7;
+	width: 80%;
+	margin: 30px auto 30px auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 700px;
+}
+
+.date{ 
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color: #3498db;
+}
+
+
+hr {
+
+	border-top: 2px dotted #8c8b8b;
+	border-bottom: 2px dotted #fff;
+
+}
+
+.firstparagraph{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 10px;
+}
+
+.title{
+	color: #2c3e50;
+	font-weight: bold;
+}
